@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class Exception2Driver {
 

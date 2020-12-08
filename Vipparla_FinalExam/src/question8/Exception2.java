@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class Exception2 {
    void multipleException(ArrayList<Integer> a,int b,int c)throws ArithmeticException,IndexOutOfBoundsException,NotValidException{

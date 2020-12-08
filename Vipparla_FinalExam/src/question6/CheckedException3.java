@@ -7,7 +7,7 @@ package question6;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class CheckedException3 {
 

@@ -7,7 +7,7 @@ package question2;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class Square extends GeometricObject implements Colorable{
     private double side1,side2;

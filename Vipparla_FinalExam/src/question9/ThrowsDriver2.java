@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class ThrowsDriver2 {
 

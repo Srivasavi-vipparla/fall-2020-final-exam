@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class UnCheckedException {
 

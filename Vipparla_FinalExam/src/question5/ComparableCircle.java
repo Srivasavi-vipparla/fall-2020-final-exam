@@ -7,7 +7,7 @@ package question5;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class ComparableCircle extends Circle implements Comparable{
 

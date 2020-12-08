@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Question4;
+package question4;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class Fruit {
      

@@ -7,7 +7,7 @@ package question1.Interfaces;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class Interface3b implements Interface3a,InterfaceEx3{
 

@@ -7,7 +7,7 @@ package question9;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public class NotValidException extends Exception {
 

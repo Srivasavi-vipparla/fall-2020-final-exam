@@ -7,7 +7,7 @@ package question1.Interfaces;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public interface InterfaceEx3 {
     void display();

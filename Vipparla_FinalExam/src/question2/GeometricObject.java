@@ -7,7 +7,7 @@ package question2;
 
 /**
  *
- * @author S540791
+ * @author Sri vasavi Vipparla
  */
 public abstract class GeometricObject {
 
