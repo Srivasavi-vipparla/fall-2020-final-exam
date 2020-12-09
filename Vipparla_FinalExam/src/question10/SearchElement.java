@@ -23,9 +23,9 @@ public class SearchElement {
 
     public int search(int n) {
         if (list1.size() < i + 1) {
-            //System.out.println("no element");
+            
             throw new NoSuchElementException(n + " Element is not available in the list");
-            // System.exit(0);
+            
         }
 
         if (list1.get(i) == n) {
